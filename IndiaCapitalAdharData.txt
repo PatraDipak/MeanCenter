@@ -1,0 +1,44 @@
+City			LongTheta			LatPhi				SPopu(2020AadharData)
+
+Amaravati		16.5131 N			80.5165 E			53903393
+Itanagar		27.0844 N			93.6053 E			1570458
+Dispur			26.1433 N			91.7898 E			35607039
+Patna			25.5941 N			85.1376 E			124799926
+Raipur			21.2514 N			81.6296 E			29436231
+Panaji			15.4909	N			73.8278 E			1586250
+Gandhinagar		23.2156 N			72.6369 E			63872399
+Chandigarh		30.7333 N			76.7794 E			28204692
+Shimla			31.1048 N			77.1734 E			7451955
+Ranchi			23.3441 N			85.3096 E			38593948
+Bangalore		12.9716	N			77.5946 E 			67562686
+Thiruvananthapuram	8.5241	N			76.9366 E			35699443
+Bhopal			23.2599	N			77.4126 E			85358965
+Mumbai			19.0760 N			72.8777 E			123144223
+Imphal			24.8170	N			93.9368 E			3091545
+Shillong		25.5788 N			91.8933 E			3366710
+Aizawl			23.7307 N			92.7173 E			1239244
+Kohima			25.6751 N			94.1086 E			2249695
+Bhubaneswar		20.2961 N			85.8245 E			46356334
+Chandigarh		30.7333 N			76.7794 E			30141373			
+Jaipur			26.9124 N			75.7873 E			81032689
+Gangtok			27.3314 N			88.6138 E			690251
+Chennai			13.0827 N			80.2707 E			77841267
+Hyderabad		17.4065 N			78.4772 E			38510982
+Agartala		23.8315	N			91.2868 E			4169794
+Lucknow			26.8467 N			80.9462 E			237882725
+Dehradun		30.3165	N			78.0322 E			11250858
+Kolkata			22.5726 N			88.3639 E			99609303
+PortBlair		11.6234 N			92.7265 E			417036
+Chandigarh		30.7333 N			76.7794 E			1158473
+Daman			20.3974 N			72.8328 E			615724
+NewDelhi		28.6139 N			77.2090 E			18710922
+Srinagar		34.0837 N			74.7973 E			13606320
+Ladakh			34.2268 N			77.5619 E			289023
+Kavaratti		10.5593 N			72.6358 E			73183
+Pondicherry		11.9416 N			79.8083 E			1413542
+
+
+
+
+
+
