@@ -1,4 +1,4 @@
-# Title of the paper: "Determination of the mean center of a region: A physics-based approach" # Author: Dipak Patra
+# Title of the paper: "Determination of the mean center of a region: A physics-based approach"  Dipak Patra
 
 The relavant files including codes and data for the above paper are kept in this repository entitled "MeanCenter".
 
