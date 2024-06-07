@@ -9,4 +9,7 @@ Statewise population data are collected from the table "State/UT wise Aadhaar Sa
 https://uidai.gov.in/images/state-wise-aadhaar-saturation.pdf
 
 
+The location of the capitals for both states and union territories of India are collected by searching Google.
+
+
 
